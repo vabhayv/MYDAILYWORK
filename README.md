@@ -2,31 +2,39 @@
 
 ### 📌 Overview
 
-This repository contains all the **Python internship tasks** completed as part of my **Python Intern** role at **MyDailyWork**. The work is organized in a structured and beginner-friendly manner to showcase individual tasks and learning progress.
+This repository contains the **Python internship tasks** completed during my role as a **Python Intern at MyDailyWork**. The tasks focus on strengthening core Python programming concepts, problem-solving skills, and building small practical applications.
+
+The projects are organized into separate folders (**Task 1 – Task 5**), where each task includes its own source code and **README.md** explaining the objective, features, and implementation.
 
 ### 📂 Repository Structure
 
-* **README.md** – Overview of the internship tasks
-* **tasks/**
+```
+tasks/
+│
+├── task1/  → To-Do List Application (Python + JSON)
+├── task2/  → Calculator Application (Python)
+├── task3/  → Password Generator (Python)
+├── task4/  → Weather Forecast Application (Python + OpenWeatherMap API)
+├── task5/  → Quiz Game (Python)
+```
 
-  * **task1/** – To-Do List Application (Python + JSON)
-  * **task2/** – Calculator Application (Python)
-  * **task3/** – Password Generator (Python)
-  * **task4/** – Weather Forecast Application (Python + OpenWeatherMap API)
-
-Each task folder contains its **own source code and README.md**, explaining the objective, features, and implementation details of that specific task.
+Each task demonstrates different programming concepts and practical implementations using Python.
 
 ### 🛠️ Technologies Used
 
 * Python
 * JSON
 * OpenWeatherMap API
-* `requests`, `random`, `string` modules
+* Python modules: `requests`, `random`, `string`
 
-### 🎯 Purpose
+### 🎯 Learning Objectives
 
-The goal of these tasks was to strengthen Python fundamentals, problem-solving skills, API integration, JSON handling, and clean coding practices through hands-on mini-projects.
+* Strengthen **Python fundamentals**
+* Practice **problem-solving and logic building**
+* Learn **API integration and JSON handling**
+* Build **interactive command-line applications**
+* Organize projects using a **structured repository**
 
-### 🚀 Learning Outcome
+### 🚀 Outcome
 
-This collection reflects my practical learning during the internship, covering real-world programming concepts, modular project organization, and version-controlled development using GitHub.
+Through these tasks, I gained hands-on experience in building small Python applications, working with APIs, handling data using JSON, and structuring projects effectively using GitHub for version control and documentation.
