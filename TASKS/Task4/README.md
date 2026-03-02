@@ -40,6 +40,6 @@ This project demonstrates API integration, JSON parsing, and handling real-world
 3. Add your OpenWeatherMap API key in the script
 4. Run the Python file:
 
-   python weather.py
+   python weather_forecast.py
 
 
