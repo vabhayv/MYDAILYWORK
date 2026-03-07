@@ -42,4 +42,3 @@ This project demonstrates API integration, JSON parsing, and handling real-world
 
    python weather_forecast.py
 
-
