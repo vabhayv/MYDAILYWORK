@@ -34,5 +34,6 @@ Ideal for beginners to understand Python basics, file handling, JSON operations,
 2. Run the Python file using:
 
    python to-do_list.py
+   
 
 
